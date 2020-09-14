@@ -1,0 +1,32 @@
+{
+  "src\\App.js": {
+    "description": "",
+    "displayName": "App",
+    "methods": [
+      {
+        "name": "handleOnChange",
+        "docblock": null,
+        "modifiers": [],
+        "params": [{ "name": "e", "type": null }],
+        "returns": null
+      },
+      {
+        "name": "handleOnSubmit",
+        "docblock": null,
+        "modifiers": [],
+        "params": [{ "name": "e", "type": null }],
+        "returns": null
+      }
+    ]
+  },
+  "src\\components\\Button\\Button.js": {
+    "description": "",
+    "displayName": "Button",
+    "methods": []
+  },
+  "src\\components\\LabelInput\\LabelInput.js": {
+    "description": "",
+    "displayName": "LabelInput",
+    "methods": []
+  }
+}
